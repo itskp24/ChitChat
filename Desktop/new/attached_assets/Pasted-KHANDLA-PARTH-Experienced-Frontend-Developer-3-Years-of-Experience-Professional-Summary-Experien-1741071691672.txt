@@ -1,0 +1,62 @@
+KHANDLA PARTH
+Experienced Frontend Developer | 3+ Years of Experience
+
+Professional Summary
+Experienced Frontend Developer with 3+ years of expertise in building modern, dynamic web applications. Skilled in using React.js, Next.js, and Redux to create engaging user interfaces and optimize application performance. Proficient in full-stack development with Node.js and Express, integrating with RESTful APIs and SQL databases like PostgreSQL and MySQL. Adept at state management, data fetching, and component-based architecture. Dedicated to continuous learning and improving processes, resulting in an enhanced development workflow and client satisfaction.
+
+Contact Details
+Phone: +91 7984920020
+Email: khandlaparth68@gmail.com
+LinkedIn: linkedin.com/in/khandla-parth-790433228
+Location: Limbdi 363421, Gujarat
+Skills
+Frontend
+Languages: HTML5, CSS3, JavaScript, TypeScript
+Frameworks & Libraries: React.js, Next.js, SWR, Redux/Saga
+Optimization: Code splitting, lazy loading, performance tuning
+Backend
+Languages & Tools: Node.js, Express.js
+API Integration: RESTful APIs, Axios, Fetch
+Authentication: JWT, OAuth
+Real-time Data: WebSockets
+Database
+SQL: MySQL, PostgreSQL
+ORM: Prisma
+Tools & Version Control
+Git & GitHub
+VSCode, Atom
+Tally Desktop, QuickBooks Desktop
+Education
+Bachelor of Engineering
+Shri J. M. Sabva Institute of Engineering & Technology (2018-2022)
+12th Science
+Nilkanth Vidhyalaya
+Career Highlights
+2024: Software Engineer
+2023: Jr. Software Engineer
+2022: Intern/Trainee Developer
+Professional Experience
+JewellerERP
+Developed a comprehensive ERP solution tailored for the jewelry industry, effectively managing inventory, orders, and sales through a robust admin panel. This system enhances operational efficiency and customer satisfaction, enabling quick adaptation to market trends.
+
+Conversation Tool
+Created a versatile data mapping tool that seamlessly converts Excel data and integrates with platforms such as Zoho, Xero, and Odoo. Additionally, developed desktop applications for synchronizing Tally with Odoo and Zoho, facilitating efficient reverse data transfers to streamline financial operations.
+
+Storytelling with AI
+Led the development of an interactive storytelling platform for children, utilizing AI to generate personalized stories. Collaborated with educational experts to ensure the platform's educational value, fostering creativity and engagement among young users.
+
+TaxFAQ
+Directed the creation of TaxFAQ, a user-friendly web application that provides tax-related information using React.js. Integrated backend services and implemented best practices to deliver a valuable resource for users seeking tax assistance.
+
+HRA
+Contributed to the HRA website, focusing on a scalable admin panel for managing a glossary store. Employed React.js to ensure an intuitive design and robust security, delivering a tailored solution aligned with business objectives.
+
+TallyToOdoo
+In the TallyToOdoo project, leveraged expertise in TDL (Tally Definition Language) to develop a solution for converting XML data from Tally, enabling seamless integration into Odoo. Designed a user-friendly form in Tally Prime, allowing users to select data for processing, which is then mapped and securely pushed to Odoo with robust authentication mechanisms.
+
+Key Competencies
+On-Site Collaboration: Proven ability to work on-site, collaborating effectively with teams to deliver tailored software solutions.
+Accounting Software Integration: Extensive knowledge of integrating Xero, QuickBooks (QBO & QBD), Zoho Books, and Odoo for seamless financial management.
+Frontend Development: Skilled in developing dynamic web applications using React.js, Next.js, and desktop applications with Tally.
+Backend Development: Expertise in Node.js and Express for building scalable RESTful APIs and backend services, with experience in SQL, including Prisma for efficient database interactions.
+Performance Optimization: Proficient in code optimization and performance tuning for high-traffic applications.
